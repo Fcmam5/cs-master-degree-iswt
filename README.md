@@ -4,8 +4,9 @@ This repository is for my practical work, and given exercices for our courses at
 
 The courses are the following:
 * First semester
-
-
+  * [Modeling and Stochastic processes](./mps)(Modélisation et Processus stochastiques)
+  * [Data Analyses](./add) Analyse de données
+  
 ## Author
 * [Fortas Mohammed Abdeldjalil Mokhtar](https://github.com/Fcmam5).
 
